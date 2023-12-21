@@ -1,10 +1,7 @@
 ---
 # Actividad Guiada 1 (AG1)
 ---
-
-# **Máster en Inteligencia Artificial**
-
-Curso 2023-2024. Edición Oct-2023
+**03MIAR** 
 
 Profr.: **Raúl Reyero**
 
