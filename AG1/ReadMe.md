@@ -22,7 +22,7 @@ Repositorio
 *  🚀 Repositorio GitHub: [https://github.com/vbleal/03MIAR/tree/4a6fbd6f45f0821dc3c135ab559842c487cf3bc9/AG1](https://github.com/vbleal/03MIAR/tree/4a6fbd6f45f0821dc3c135ab559842c487cf3bc9/AG1)
 
 
-
+![](https://github.com/vbleal/03MIAR/blob/5237ea30c53e9083ccdc90547d6355041eeb5277/AG1/Mis_Torres_de_Hanoi.png)
 
 
 ## Índice
