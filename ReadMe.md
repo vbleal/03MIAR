@@ -4,8 +4,7 @@
 
 
 
->💡 *In Artificial Intelligence, Optimization isn't just a step, it's the whole journey.*
-―Judea Pearl 
+>💡 *In Artificial Intelligence, Optimization isn't just a step, it's the whole journey.* ―Judea Pearl 
 
 ## 📃 Temas
 
