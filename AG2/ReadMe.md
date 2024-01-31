@@ -2,7 +2,7 @@
 # Actividad Guiada 2
 ---
 
-[https://github.com/vbleal/03MIAR](https://github.com/vbleal/03MIAR)
+[03MIAR](https://github.com/vbleal/03MIAR)
 
 
 Profr.: **Raúl Reyero**
@@ -26,7 +26,7 @@ Alumno: **Victor David Betancourt Leal**
 *  🚀 Repositorio GitHub: [https://github.com/vbleal/03MIAR/tree/main/AG2](https://github.com/vbleal/03MIAR/tree/main/AG2)
 
 
-![](https://github.com/vbleal/03MIAR/blob/5237ea30c53e9083ccdc90547d6355041eeb5277/AG1/Mis_Torres_de_Hanoi.png)
+![]()
 
 </details>
 
