@@ -6,39 +6,17 @@
 
 >💡 *In Artificial Intelligence, Optimization isn't just a step, it's the whole journey.* ―Judea Pearl 
 
+
+
 ## 📃 Temas
 
 
 <details>
     <summary> Expandir </summary>
   
-## 📃 Descripción
-
-## 📑 Estructura de Ficheros
-
-
-## 📥 Inputs
-
-### Inputs 
 
 
 
-### Datasets 
-
-
-
-## ㊙️ Código
-
-
-
-
-## 📲 Outputs
-
-
-### Preparación de Datos
-
-
-### Modelado
 
 </details>
 
@@ -52,24 +30,22 @@
 <details>
     <summary> Expandir </summary>
 
-- **Actividad Guiada 1 (AG1)**
-    - 
+- **Actividad Guiada 1**
+    - [AG1](https://github.com/vbleal/03MIAR/tree/main/AG1)
 
-- **Actividad Guiada 2 (AG2)**
-    - 
+- **Actividad Guiada 2**
+    - [AG2](https://github.com/vbleal/03MIAR/tree/main/AG2)
 
-- **Actividad Guiada 3 (AG3)**
-    - 
+- **Actividad Guiada 3**
+    - [AG3](https://github.com/vbleal/03MIAR/tree/main/AG3)
 
 - **Trabajo Final**
-    - 
+    - [TP](https://github.com/vbleal/03MIAR/tree/main/TP)
 
 
 </details>
 
 ----------------
-
-
 
 
 
