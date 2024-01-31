@@ -3,16 +3,16 @@
 ---
 **03MIAR** 
 
+
 Profr.: **Raúl Reyero**
 
-*  raul.reyero@campusviu.es
-*  raul.reyero@professor.universidadviu.com
+*  [raul.reyero@professor.universidadviu.com](raul.reyero@professor.universidadviu.com)
 
 
 Alumno: **Victor David Betancourt Leal**
 
-*  victor.betancourt@alumnos.viu.es
-*  vbleal@gmail.com
+*  [victor.betancourt@alumnos.viu.es](victor.betancourt@alumnos.viu.es)
+*  [vbleal@gmail.com](vbleal@gmail.com)
 
 
 Repositorio
@@ -25,7 +25,10 @@ Repositorio
 ![](https://github.com/vbleal/03MIAR/blob/5237ea30c53e9083ccdc90547d6355041eeb5277/AG1/Mis_Torres_de_Hanoi.png)
 
 
-## Índice
+## Temas de la Actividad
+
+<details>
+    <summary> Expandir </summary>
 
 1. Divide y Vencerás (Divide and Conquer, DC)
 2. Algoritmos Voraces (Greedy Algorithms)
@@ -33,7 +36,13 @@ Repositorio
 4. Programación Dinámica
 5. Problema Adicional
 
-Bibliografía
+
+</details>
+
+----------------
+
+
+
 
 
 
