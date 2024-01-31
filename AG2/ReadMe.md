@@ -38,7 +38,10 @@ Alumno: **Victor David Betancourt Leal**
 <details>
     <summary> Expandir </summary>
 
-1. 
+- Programación Dinámica
+- Ramificación y Poda
+- Descenso del Gradiente
+  
 
 
 </details>
