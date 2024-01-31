@@ -33,7 +33,7 @@ Alumno: **Victor David Betancourt Leal**
 ----------------
 
 
-## Temas de la Actividad
+## Temas
 
 <details>
     <summary> Expandir </summary>
