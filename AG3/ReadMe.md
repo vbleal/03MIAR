@@ -38,7 +38,10 @@ Alumno: **Victor David Betancourt Leal**
 <details>
     <summary> Expandir </summary>
 
-1. 
+- Búsqueda Aleatoria
+- Búsqueda Local
+- Recocido Simulado (Simulated Annealing)
+- Colonia de Hormigas
 
 
 </details>
