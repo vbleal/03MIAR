@@ -39,8 +39,8 @@ Alumno: **Victor David Betancourt Leal**
     <summary> Expandir </summary>
 
 - Programación Dinámica
-- Ramificación y Poda
-- Descenso del Gradiente
+- Ramificación y Poda vs Algoritmo de Fuerza Bruta
+- Descenso del Gradiente y Optimización
   
 
 
