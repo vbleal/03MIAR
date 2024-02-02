@@ -45,11 +45,12 @@
 - Simulated Annealing (Recocido Simulado)
 - Búsqueda Local Mejorada con Entornos Variables
 - Búsqueda Local Mejorada con Simulated Annealing
+- Algoritmo de Colonia de Hormigas
 
 
-![https://raw.githubusercontent.com/vbleal/03MIAR/main/Im/SA.jpeg](https://raw.githubusercontent.com/vbleal/03MIAR/main/Im/SA.jpeg)
+![](https://raw.githubusercontent.com/vbleal/03MIAR/main/Im/Ants.png)
 
-Image Credits: IntechOpen
+Image Credits: DALL-E + MyPrompt
 
 
 </details>
