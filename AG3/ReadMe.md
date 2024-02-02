@@ -45,6 +45,11 @@ Alumno: **Victor David Betancourt Leal**
 - Búsqueda Local Mejorada con Simulated Annealing
 
 
+![https://raw.githubusercontent.com/vbleal/03MIAR/main/Im/SA.jpeg](https://raw.githubusercontent.com/vbleal/03MIAR/main/Im/SA.jpeg)
+
+Credits: IntechOpen
+
+
 </details>
 
 ----------------
