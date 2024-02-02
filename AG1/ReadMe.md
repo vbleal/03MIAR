@@ -4,19 +4,19 @@
 **03MIAR** 
 
 
-## 📃 Datos
+[03MIAR](https://github.com/vbleal/03MIAR)
 
 
-<details>
-    <summary> Expandir </summary>
-  
-- Victor David Betancourt Leal
+Profr.: **Raúl Reyero**
+
+*  [raul.reyero@professor.universidadviu.com](raul.reyero@professor.universidadviu.com)
 
 
+Alumno: **Victor David Betancourt Leal**
 
-</details>
+*  [victor.betancourt@alumnos.viu.es](victor.betancourt@alumnos.viu.es)
+*  [vbleal@gmail.com](vbleal@gmail.com)
 
-----------------
 
 
 
