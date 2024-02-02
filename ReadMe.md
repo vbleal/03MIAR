@@ -8,14 +8,12 @@
 
 
 
-## 📃 Datos
-
+## Datos
 
 <details>
     <summary> Expandir </summary>
-  
-- Victor David Betancourt Leal
 
+- **Victor David Betancourt Leal**
 
 
 </details>
