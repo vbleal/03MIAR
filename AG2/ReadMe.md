@@ -43,7 +43,7 @@ Alumno: **Victor David Betancourt Leal**
 - Descenso del Gradiente y Optimización
 
 
-![]()  
+![](https://raw.githubusercontent.com/vbleal/03MIAR/main/Im/DG.png)  
 
 Image Credits: [ResearchGate](https://www.researchgate.net/profile/Angel-Sanchez-Ruiz-2/publication/344388136/figure/fig9/AS:939994705305603@1601123610646/Figura-3511-Descenso-de-gradiente-estocastico-SGD-Arizan-R-y-Hassibi-B-2019.png)
 
