@@ -47,7 +47,7 @@ Alumno: **Victor David Betancourt Leal**
 
 ![https://raw.githubusercontent.com/vbleal/03MIAR/main/Im/SA.jpeg](https://raw.githubusercontent.com/vbleal/03MIAR/main/Im/SA.jpeg)
 
-Credits: IntechOpen
+Image Credits: IntechOpen
 
 
 </details>
