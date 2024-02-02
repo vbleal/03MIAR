@@ -4,24 +4,34 @@
 **03MIAR** 
 
 
-Profr.: **Raúl Reyero**
-
-*  [raul.reyero@professor.universidadviu.com](raul.reyero@professor.universidadviu.com)
+## 📃 Datos
 
 
-Alumno: **Victor David Betancourt Leal**
+<details>
+    <summary> Expandir </summary>
+  
+- Victor David Betancourt Leal
 
-*  [victor.betancourt@alumnos.viu.es](victor.betancourt@alumnos.viu.es)
-*  [vbleal@gmail.com](vbleal@gmail.com)
 
 
-Repositorio
+</details>
+
+----------------
+
+
+
+## Repositorio
+
+<details>
+    <summary> Expandir </summary>
 
 *  📒 Notebook Colab: [https://colab.research.google.com/drive/1ztFj0oaNhtXbEu0tEkc6PdZ36dA9VDkw?usp=sharing](https://colab.research.google.com/drive/1ztFj0oaNhtXbEu0tEkc6PdZ36dA9VDkw?usp=sharing)
 
 *  🚀 Repositorio GitHub: [https://github.com/vbleal/03MIAR/tree/main/AG1](https://github.com/vbleal/03MIAR/tree/main/AG1)
 
+</details>
 
+----------------
 
 
 
