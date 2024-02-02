@@ -22,7 +22,7 @@ Repositorio
 *  🚀 Repositorio GitHub: [https://github.com/vbleal/03MIAR/tree/main/AG1](https://github.com/vbleal/03MIAR/tree/main/AG1)
 
 
-![](https://github.com/vbleal/03MIAR/blob/5237ea30c53e9083ccdc90547d6355041eeb5277/AG1/Mis_Torres_de_Hanoi.png)
+
 
 
 ## Temas de la Actividad
@@ -35,6 +35,11 @@ Repositorio
 3. Algoritmos con Vuelta Atrás (Backtracking)
 4. Programación Dinámica
 5. Problema Adicional
+
+
+![](https://github.com/vbleal/03MIAR/blob/5237ea30c53e9083ccdc90547d6355041eeb5277/AG1/Mis_Torres_de_Hanoi.png)
+
+Image Credits: DALL-E + MyPrompt
 
 
 </details>
