@@ -1,22 +1,21 @@
 ---
 # Actividad Guiada 1 (AG1)
 ---
-**03MIAR** 
-
 
 [03MIAR](https://github.com/vbleal/03MIAR)
 
 
-Profr.: **Raúl Reyero**
+## Datos
 
-*  [raul.reyero@professor.universidadviu.com](raul.reyero@professor.universidadviu.com)
+<details>
+    <summary> Expandir </summary>
+
+**Victor David Betancourt Leal**
 
 
-Alumno: **Victor David Betancourt Leal**
+</details>
 
-*  [victor.betancourt@alumnos.viu.es](victor.betancourt@alumnos.viu.es)
-*  [vbleal@gmail.com](vbleal@gmail.com)
-
+----------------
 
 
 
