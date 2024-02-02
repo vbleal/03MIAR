@@ -40,8 +40,9 @@ Alumno: **Victor David Betancourt Leal**
 
 - Búsqueda Aleatoria
 - Búsqueda Local
-- Recocido Simulado (Simulated Annealing)
-- Colonia de Hormigas
+- Simulated Annealing (Recocido Simulado)
+- Búsqueda Local Mejorada con Entornos Variables
+- Búsqueda Local Mejorada con Simulated Annealing
 
 
 </details>
