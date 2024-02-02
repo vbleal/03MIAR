@@ -21,9 +21,9 @@ Alumno: **Victor David Betancourt Leal**
 <details>
     <summary> Expandir </summary>
 
-*  📒 Notebook Colab: []()
+*  📒 Colab: [https://drive.google.com/file/d/1K52i3YtufDhOhKN8sc5odvT3DXdeASm_/view?usp=sharing](https://drive.google.com/file/d/1K52i3YtufDhOhKN8sc5odvT3DXdeASm_/view?usp=sharing)
 
-*  🚀 Repositorio GitHub: [https://github.com/vbleal/03MIAR/tree/main/AG3](https://github.com/vbleal/03MIAR/tree/main/AG3)
+*  🚀 GitHub: [https://github.com/vbleal/03MIAR/tree/main/AG3](https://github.com/vbleal/03MIAR/tree/main/AG3)
 
 
 ![]()
