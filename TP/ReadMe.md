@@ -21,7 +21,7 @@ Alumno: **Victor David Betancourt Leal**
 <details>
     <summary> Expandir </summary>
 
-*  📒 Notebook Colab: []()
+*  📒 Notebook Colab: [https://drive.google.com/file/d/1cudXzRH38F5bPLDwdR3C5rZiRM0RMSUP/view?usp=sharing](https://drive.google.com/file/d/1cudXzRH38F5bPLDwdR3C5rZiRM0RMSUP/view?usp=sharing)
 
 *  🚀 Repositorio GitHub: [https://github.com/vbleal/03MIAR/tree/main/TP](https://github.com/vbleal/03MIAR/tree/main/TP)
 
@@ -33,14 +33,14 @@ Alumno: **Victor David Betancourt Leal**
 ----------------
 
 
-## Temas
+## Tema: Problema La Liga
 
 <details>
     <summary> Expandir </summary>
 
-- Desarrollar, modelar y analizar algoritmos según diferentes técnicas para resolver el problema planteado en la asignatura.
+- Desarrollar, modelar y analizar algoritmos según diferentes técnicas para resolver el problema de organizar los horarios de partidos de La Liga.
 
-
+![](https://www.shutterstock.com/image-vector/west-sumatra-indonesia-august-30-260nw-2354714821.jpg)
 
 </details>
 
